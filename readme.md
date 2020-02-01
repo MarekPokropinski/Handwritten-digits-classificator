@@ -19,5 +19,5 @@ $ python learn.py
 To export a model to tensorflow.js:
 
 ```bash
-$ tensorflowjs_converter --input_format keras model.h5 .\\webpage\\
+$ tensorflowjs_converter --input_format keras model.h5 .\webpage\
 ```
